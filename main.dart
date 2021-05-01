@@ -1,6 +1,6 @@
-// 192855037 - İlhami Tuğral
+// 182010020045 - Ethem Büyüksaçlı
 
-String university = 'Uşak Üniversitesi';
+String university = 'Kony Gıda ve Tarım Üniversitesi';
 
 void main() {
   print("${university}'ne hoşgeldiniz");
